@@ -29,3 +29,10 @@ Repók közötti külnönbséget is mutatja.
 Git log paranccsal.
 1. Melyik git parancsot használnád, hogy megtudd milyen állapotban van épp a repo?
 Git status paranccsal.
+
+commit feeeb71f881e0edcff76d51722e85e880231a59d (HEAD -> app, origin/app)
+Author: András Maróy <andras@maroy.hu>
+Date:   Fri Nov 8 13:11:14 2019 +0100
+
+    Remove content, why would anyone put lorem ipsum here?
+
